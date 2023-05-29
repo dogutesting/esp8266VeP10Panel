@@ -1,7 +1,7 @@
 # ESP8266 + WiFi + P10 Panel
 -> Esp8266 ile WiFi üzerinden P10 LED Panel üzerindeki yazıyı değiştirme <br />
 
-<h1> --> MALZEMELER <-- <h1> <br/>
+<h3> --> MALZEMELER <-- <h3> <br/>
 <ul>
   <li>ESP8266</li>
   <li>P10 PANEL</li>
@@ -19,6 +19,44 @@
 
 -> P10 Panelin arka tarafında bulunan pinleri ESP8266 kartına bağlamak için yukarıda verdiğim repoyu inceleyebilirsiniz.
 -> Yine o repo'dan kabloların bağlandığı ekran görüntüsü https://github.com/busel7/DMDESP/blob/master/wiring.jpg
+-> <table>
+<thead>
+<tr>
+<th>DMD P10</th>
+<th>NODEMCU</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>D0</td>
+</tr>
+<tr>
+<td>B</td>
+<td>D6</td>
+</tr>
+<tr>
+<td>CLK</td>
+<td>D5</td>
+</tr>
+<tr>
+<td>SCK</td>
+<td>D3</td>
+</tr>
+<tr>
+<td>R</td>
+<td>D7</td>
+</tr>
+<tr>
+<td>NOE</td>
+<td>D8</td>
+</tr>
+<tr>
+<td>GND</td>
+<td>GND</td>
+</tr>
+</tbody>
+</table> \n
 -> PinMode ile pin tanımlamaya gerek yok çünkü dmdesp kütüphanesi zaten bunu yapmış. Resimdeki gibi kabloları bağlarsanız doğru şekilde çalışacaktır.
 
 -> Arduino IDE'yi açın. Şimdi Esp8266 kartını Arduino'ya tanıtalım. Üst menüden Dosya -> Tercihler'e tıklayın. Açılan Tercihler penceresinde "Ek Devre Kartları Yöneticisi URL'leri" yerine http://arduino.esp8266.com/stable/package_esp8266com_index.json bu linki yapıştırın. Tamam'a basıp çıkın.
