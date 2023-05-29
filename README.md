@@ -56,7 +56,7 @@
 <td>GND</td>
 </tr>
 </tbody>
-</table> \n
+</table> <br/>
 -> PinMode ile pin tanımlamaya gerek yok çünkü dmdesp kütüphanesi zaten bunu yapmış. Resimdeki gibi kabloları bağlarsanız doğru şekilde çalışacaktır.
 <br/>
 -> Arduino IDE'yi açın. Şimdi Esp8266 kartını Arduino'ya tanıtalım. Üst menüden Dosya -> Tercihler'e tıklayın. Açılan Tercihler penceresinde "Ek Devre Kartları Yöneticisi URL'leri" yerine http://arduino.esp8266.com/stable/package_esp8266com_index.json bu linki yapıştırın. Tamam'a basıp çıkın.<br/>
@@ -75,7 +75,7 @@
 -> Bir tarayıcı açıp adres satırına 192.168.4.1/ yazın bu sizi direk index.html sayfasına yönlendirecektir. html'de input alanına istediğiniz kelimeyi veya cümleyi yazıp test edin.<br/>
 -> IP adresi kartınızda farklı olabilir bunun için seri port ekranında dinleme yapabilirsiniz.<br/>
 <br/>
---> PROBLEMLER <--<br/>
+<h2>--> PROBLEMLER <--</h2><br/>
 <br/>
 X - Türkçe karakterlerle alakalı sorun yaşanıyor, ı,ğ,ü,ş,ö,ç gibi.<br/>
 ? - Olası çözüm font dosyaları ile alakalı olmalı. C dili ve hexadecimal ile yazıldığı için pek uğraşmak istemedim.<br/>
