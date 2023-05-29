@@ -1,5 +1,5 @@
 # ESP8266 + WiFi + P10 Panel
--> <h2>Esp8266 ile WiFi üzerinden P10 LED Panel üzerindeki yazıyı değiştirme</h2> <br />
+<h2>Esp8266 ile WiFi üzerinden P10 LED Panel üzerindeki yazıyı değiştirme</h2> <br />
 
 <h3> --> MALZEMELER <-- <h3> <br/>
 <ul>
