@@ -18,7 +18,7 @@
 -> Bilgisayarınızda belgeler/arduino/libraries bölümüne gidin. Bu klasörün içerisine indirdiğiniz repo'nun hepsini kopyalayın. Arduino'yu yeniden başlatmanız gerekebilir.<br/>
 <br/>
 -> P10 Panelin arka tarafında bulunan pinleri ESP8266 kartına bağlamak için yukarıda verdiğim repoyu inceleyebilirsiniz.<br/>
--> Yine o repo'dan kabloların bağlandığı ekran görüntüsü https://github.com/busel7/DMDESP/blob/master/wiring.jpg <br/>
+-> Yine o repo'dan kabloların bağlandığı ekran görüntüsü https://github.com/busel7/DMDESP/blob/master/wiring.jpg <br/><br/>
 <table>
 <thead>
 <tr>
