@@ -1,10 +1,9 @@
 # NodeMCU ESP8266 + WiFi + P10 Panel
-<h2>NodeMCU Esp8266 ile WiFi üzerinden P10 LED Panel üzerindeki yazıyı değiştirme</h2> <br />
-<b>Video:</b> <br>
+<h2>NodeMCU Esp8266 ile WiFi üzerinden P10 LED Panel üzerindeki yazıyı değiştirme</h2>
+<h2>Video:</h2> 
 
 https://github.com/dogutesting/esp8266VeP10Panel/assets/80362520/b0f4d939-fdf4-45e9-a022-9b8e50bc3e9d
 
-<br/>
 
 <h3> --> MALZEMELER <-- <h3>
 <ul>
@@ -12,9 +11,9 @@ https://github.com/dogutesting/esp8266VeP10Panel/assets/80362520/b0f4d939-fdf4-4
   <li>P10 PANEL</li>
   <li>Adaptör 5V-1A</li>
 </ul>
-<br/>
+
 <h3>--> KURULUM <--</h3><br/>
-<br/>
+
 -> Arduino IDE 1.8.19 sürümünü kullandım, 2.1.0 sürümünde sketch yüklerken sıkıntı ile karşılaştım.<br/>
 <br/>
 -> https://www.arduino.cc/en/software bu sayfadan Arduino IDE 1.8.x sürümünü indirebilirsiniz.<br/>
