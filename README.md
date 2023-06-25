@@ -4,15 +4,19 @@
 
 https://github.com/dogutesting/esp8266VeP10Panel/assets/80362520/b0f4d939-fdf4-45e9-a022-9b8e50bc3e9d
 
+<h2>Mobile Gösterim</h2>
 
-<h3> --> MALZEMELER <-- <h3>
+![mobile_design_case_2](https://github.com/dogutesting/esp8266VeP10Panel/assets/80362520/69b2651a-99d0-416c-b148-8fcaa03af029)
+
+
+## MALZEMELER
 <ul>
   <li>NodeMCU ESP8266</li>
   <li>P10 PANEL</li>
   <li>Adaptör 5V-1A</li>
 </ul>
 
-<h3>--> KURULUM <--</h3><br/>
+## KURULUM
 
 -> Arduino IDE 1.8.19 sürümünü kullandım, 2.1.0 sürümünde sketch yüklerken sıkıntı ile karşılaştım.<br/>
 <br/>
@@ -79,8 +83,9 @@ https://github.com/dogutesting/esp8266VeP10Panel/assets/80362520/b0f4d939-fdf4-4
 -> Bir tarayıcı açıp adres satırına 192.168.4.1/ yazın bu sizi direk index.html sayfasına yönlendirecektir. html'de input alanına istediğiniz kelimeyi veya cümleyi yazıp test edin.<br/>
 -> IP adresi kartınızda farklı olabilir bunun için seri port ekranında dinleme yapabilirsiniz.<br/>
 <br/>
-<h2>--> PROBLEMLER <--</h2>
-<br/>
+
+## PROBLEMLER
+
 X - Türkçe karakterlerle alakalı sorun yaşanıyor, ı,ğ,ü,ş,ö,ç gibi.<br/>
 ? - Olası çözüm font dosyaları ile alakalı olmalı. C dili ve hexadecimal ile yazıldığı için pek uğraşmak istemedim.<br/>
 <br/>
