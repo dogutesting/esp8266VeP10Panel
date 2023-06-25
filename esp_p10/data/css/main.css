@@ -138,6 +138,10 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endCo
     height: 150px;
     width: 150px;
   }
+  form #input_text {
+    margin: 0 auto;
+    width: 95%;
+  }
   form #yazdir_button {
     font-size: 34px;
   }
@@ -152,9 +156,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endCo
     main {
         height: 330px;
     }
-    form #input_text {
+    /* form #input_text {
         width: 100%;
-    }
+    } */
     #ozel_durum {
         display:flex; 
         justify-content:center; 
@@ -173,9 +177,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endCo
     main {
         height: 350px;
     }
-    form #input_text {
+    /* form #input_text {
         width: 100%;
-    }
+    } */
     #ozel_durum {
         display:flex; 
         justify-content:center; 
